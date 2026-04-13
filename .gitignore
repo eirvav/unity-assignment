@@ -1,0 +1,46 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Addressables and generated asset caches
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# Visual Studio / Rider / VS Code generated files
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.rsp
+*.dotCover
+.vs/
+.idea/
+.vscode/
+
+# Unity generated files
+sysinfo.txt
+
+# OS files
+.DS_Store
+
+# Large local-only tutorial media
+/Assets/Tutorial/TASK 1/Content/big_buck_bunny_1080p_h264.mov
+/Assets/Tutorial/TASK 1/Content/big_buck_bunny_1080p_h264.mov.meta
+/Assets/Tutorial/TASK 1/Content/NASA Marshall 360° Tour Flight Hardware Development Facility.mp4
+/Assets/Tutorial/TASK 1/Content/NASA Marshall 360° Tour Flight Hardware Development Facility.mp4.meta

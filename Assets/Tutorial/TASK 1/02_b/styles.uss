@@ -1,0 +1,30 @@
+:root {
+}
+
+.header {
+    unity-font-style: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.selection-button {
+    flex-grow: 1;
+    margin-right: 4px;
+    font-size: 16px;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+    -unity-font-definition: url("project://database/Assets/Tutorial/Fonts/ar-one-sans/otf/AROneSans-Regular.otf?fileID=12800000&guid=23ca542e9c1e37246a9694921faf554e&type=3#AROneSans-Regular");
+}
